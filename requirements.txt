@@ -1,0 +1,3 @@
+pandas>=0.19
+pycaret==2.1
+streamlit
