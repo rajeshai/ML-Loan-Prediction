@@ -18,7 +18,7 @@ def run():
     Self_Employed=st.selectbox('Self Employed',['Select','Yes', 'No'])
     ApplicantIncome=st.number_input('Applicant Income', min_value=1.0, max_value=100000.0)
     CoapplicantIncome=st.number_input('Coapplicant Income', min_value=0.0, max_value=100000.0)
-    LoanAmount=st.number_input('Loan Amount', min_value=1)
+    LoanAmount=st.number_input('Loan Amount(In Hundreds)', min_value=1)
     Loan_Amount_Term=st.selectbox('Term of Loan Amount(In Months)',['Select','60','120','180','240','300','360'])
     Credit_History=st.selectbox('Credit History',['Select','0','1'])
     Property_Area=st.selectbox('Select your Area Category',['Select','Urban','Semiurban','Rural'])
