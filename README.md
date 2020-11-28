@@ -1,2 +1,2 @@
-# Loan-Prediction-ML-app
+# Loan-Prediction-ML-app [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rajeshai/ml-loan-prediction/main/prediction.py)
 This app is created with open source software streamlit. The ML model is built with another open source software Pycaret. Dataset used in this is obtained from the Analytics Vidhya Loan Prediction DataHack competition.
